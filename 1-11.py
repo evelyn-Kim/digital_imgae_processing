@@ -82,4 +82,5 @@ fun = 6
 if fun == 6:
     fun6_convolutions()
 
+cv2.waitKey(0)
 cv2.destroyAllWindows()
